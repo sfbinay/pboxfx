@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://furkan:furkan@cluster0-tpiwt.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mySecretToken"
+}
